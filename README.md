@@ -14,7 +14,7 @@ The dashboard provides interactive insights into:
 
 ## 🖼️ Dashboard Previews  
 ### Dashboard 1  
-![Dashboard Preview 1](Finaldashboard.png)  
+![Dashboard Preview 1](Final%20dashboard.png)  
 
 ### Dashboard 2  
 ![Dashboard Preview 2](Dashboard.png)  
